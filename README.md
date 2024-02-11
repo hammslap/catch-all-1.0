@@ -69,3 +69,4 @@ Welcome to my digital repository of wisdom and knowledge. Here lies a curated co
 
 # Awesome Python [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) 
 1. Awesome Python - A curated list of awesome Python frameworks, libraries, software and resources - https://github.com/hammslap/awesome-python
+2. Free Certifications - A curated list of free courses & certifications. Don't forget to star ⭐ this repository. [Free Certificates](https://github.com/cloudcommunity/Free-Certifications)
